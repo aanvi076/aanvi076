@@ -11,4 +11,4 @@ Experienced in:
 
 Passionate about learning, building, and growing in tech.  
 
-📫 Reach out at: aanvi076@gmail.com
+Reach out at: aanvi076@gmail.com
