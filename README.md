@@ -1,5 +1,14 @@
-Hi , I am @aanvibindal.
-Currently focussing on aiml and building impactful and innovative tech solutions  .
-Experienced in Machine learning, Data analysis, Data Science, computer vision and Java spring boot.
-Passionate about learning, building, and growing in tech.
-Reach out at: aanvi076@gmail.com.
+Hi, I am @aanvibindal.  
+
+Currently focusing on AI/ML and building impactful and innovative tech solutions.  
+
+Experienced in:
+- Machine Learning
+- Data Analysis
+- Data Science
+- Computer Vision
+- Java Spring Boot
+
+Passionate about learning, building, and growing in tech.  
+
+📫 Reach out at: aanvi076@gmail.com
