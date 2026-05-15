@@ -1,8 +1,8 @@
 Hi, I am @aanvibindal.  
 
-Currently focusing on AI/ML and building impactful and innovative tech solutions.  
+Focused on AI/ML and building impactful and innovative tech solutions.  
 
-Experienced in:
+Currently learning:
 - Machine Learning
 - Data Analysis
 - Data Science
