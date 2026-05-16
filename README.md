@@ -7,7 +7,6 @@ Currently learning:
 - Data Analysis
 - Data Science
 - Computer Vision
-- Java Spring Boot
 
 Passionate about learning, building, and growing in tech.  
 
