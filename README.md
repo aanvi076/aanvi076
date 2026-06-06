@@ -1,13 +1,2 @@
-Hi, I am @aanvibindal.  
+<img width="1639" height="959" alt="github" src="https://github.com/user-attachments/assets/72d8d3c9-f83f-425b-9db5-667a09d16006" />
 
-Focused on AI/ML and building impactful and innovative tech solutions.  
-
-Currently learning:
-- Machine Learning
-- Data Analysis
-- Data Science
-- Computer Vision
-
-Passionate about learning, building, and growing in tech.  
-
-Reach out at: aanvi076@gmail.com
